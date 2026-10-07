@@ -85,6 +85,14 @@ body {
                                 border-right: none;
                             }
 
+                            nav.top-nav {
+                                text-transform: uppercase;
+                            }
+
+                            nav.bottom-nav {
+                                text-transform: lowercase;
+                            }
+
                         }
 
                         img {
