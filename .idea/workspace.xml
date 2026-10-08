@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="Added text transforms for top and bottom navs.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inner_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/inner_styles.css" afterDir="false" />
+    <list default="true" id="ce7f47f1-435a-462f-b07a-aab9b3b0b49c" name="Changes" comment="Added text and image for main content finishing off second page. Linked &quot;About Us&quot; to homepage.">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inner_layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/About_Us.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +117,7 @@
       <workItem from="1790866667698" duration="1236000" />
       <workItem from="1791140435240" duration="1263000" />
       <workItem from="1791296571650" duration="7007000" />
-      <workItem from="1791465621048" duration="5108000" />
+      <workItem from="1791465621048" duration="5786000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Commit">
       <option name="closed" value="true" />
@@ -159,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791402746827</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added text and image for main content finishing off second page. Linked &quot;About Us&quot; to homepage.">
+      <option name="closed" value="true" />
+      <created>1791471799917</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791471799917</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +189,7 @@
     <MESSAGE value="Bolded Left Menu" />
     <MESSAGE value="Starting layout missing information in content box.&#10;Header done&#10;Navs done&#10;Footer done&#10;Info missing" />
     <MESSAGE value="Added text transforms for top and bottom navs." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added text transforms for top and bottom navs." />
+    <MESSAGE value="Added text and image for main content finishing off second page. Linked &quot;About Us&quot; to homepage." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added text and image for main content finishing off second page. Linked &quot;About Us&quot; to homepage." />
   </component>
 </project>
