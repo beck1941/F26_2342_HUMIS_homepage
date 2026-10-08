@@ -66,8 +66,12 @@ body {
                     padding: 5px 20px;
 
                     nav {
-                        text-align: right;
+                        display: flex;
+                        justify-content: flex-end;
+                        flex-direction: row;
+                        align-items: center;
                         font-size: 10px;
+                        gap: 3px;
 
                         a {
                             color: black;
@@ -75,6 +79,7 @@ body {
                             border-right: 1px solid black;
                             padding-right: 5px;
                             margin-left: 3px;
+
 
 
                             &:hover {
@@ -106,6 +111,30 @@ body {
                         &.bottom-nav{
                             text-transform: lowercase;
                         }
+                    }
+                }
+                main {
+
+
+                    h1 {
+                        text-transform: uppercase;
+                        color: red;
+                        font-size: 22px;
+
+                    }
+
+                    p {
+                        text-align: justify;
+                        text-justify: distribute;
+                        font-size: 13px;
+
+                    }
+
+                    img {
+                        width:40%;
+                        float: right;
+                        margin: 0 0 5px 20px;
+
                     }
                 }
             }
